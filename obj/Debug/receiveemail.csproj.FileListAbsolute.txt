@@ -1,0 +1,8 @@
+D:\Student Life Viorel\anul 3\an 3 sem 2\receiveemail\bin\Debug\receiveemail.exe.config
+D:\Student Life Viorel\anul 3\an 3 sem 2\receiveemail\bin\Debug\receiveemail.exe
+D:\Student Life Viorel\anul 3\an 3 sem 2\receiveemail\bin\Debug\receiveemail.pdb
+D:\Student Life Viorel\anul 3\an 3 sem 2\receiveemail\bin\Debug\EAGetMail.dll
+D:\Student Life Viorel\anul 3\an 3 sem 2\receiveemail\obj\Debug\receiveemail.csprojAssemblyReference.cache
+D:\Student Life Viorel\anul 3\an 3 sem 2\receiveemail\obj\Debug\receiveemail.csproj.CopyComplete
+D:\Student Life Viorel\anul 3\an 3 sem 2\receiveemail\obj\Debug\receiveemail.exe
+D:\Student Life Viorel\anul 3\an 3 sem 2\receiveemail\obj\Debug\receiveemail.pdb
